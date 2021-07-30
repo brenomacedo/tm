@@ -1,6 +1,6 @@
 name: subtracao
 init: ultimo_numero
-accept: false
+accept: end,remove_left_zero,clearpositive
 
 //=============ULTIMO NUMERO S/ QUERY===============
 
